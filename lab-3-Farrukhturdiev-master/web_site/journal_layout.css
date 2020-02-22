@@ -1,0 +1,53 @@
+body{
+background-image:url(https://a1industrialtrucks.co.uk/wp-content/uploads/2018/11/webplunder-background-image-technology-online-website-solutions.jpg);
+margin: 0;
+padding: 0;
+height: 100vh;
+width: 100%;
+}
+
+.lab3{
+    background: white;
+    width: 70%;
+    margin: auto;
+    padding:10px;
+    border: 10px solid white;
+}
+.a {
+    border: 5px solid red;
+    background-color:#A8F0F0;
+}
+.b h2 span{
+    margin: 5px;
+    padding:10px;
+    border: 2px solid white;
+    text-decoration: underline dotted;
+}
+.a{
+    text-align: end;
+    color: white;
+    margin: 5px;
+    padding:10px;
+    border: 5px solid #A8F0F0;  
+} 
+img {
+    float: right;
+    
+}  
+.clear {
+    clear: both;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.grid>div {
+    display: inline-table;
+}
+.b{
+    margin: 5px;
+    padding:10px;
+    background: white;
+    border: 4px solid #C2E9E9; 
+}
+  
